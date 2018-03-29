@@ -1,2 +1,3 @@
-# smartVAQuestions
-smart VA questionaries repository
+# pythondemo
+python demo code
+
